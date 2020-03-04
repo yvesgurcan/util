@@ -1,3 +1,5 @@
+⛏️ Utilities for web digging
+
 - Find out what technologies a webpage uses: [BuiltWith.com](https://builtwith.com/).
 - Explore what a website looked like before: [WaybackMachine](http://web.archive.org/).
 - Check which browsers support a feature: (Can I Use)[https://caniuse.com/].
