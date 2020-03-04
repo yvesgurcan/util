@@ -1,5 +1,8 @@
 ⛏️ Utilities for web digging
 
-- Find out what technologies a webpage uses: [BuiltWith.com](https://builtwith.com/).
-- Explore what a website looked like before: [WaybackMachine](http://web.archive.org/).
-- Check which browsers support a feature: (Can I Use)[https://caniuse.com/].
+- [BuiltWith.com](https://builtwith.com/): Find out what technologies a webpage uses.
+- [WaybackMachine](http://web.archive.org/): Explore what a website looked like before.
+- (Can I Use)[https://caniuse.com/]: Check which browsers support a feature.
+
+- [State of Javascript](https://stateofjs.com/): An annual survey of the trends of JavaScript.
+- [State of CSS](https://stateofcss.com/): An annual survey of the trends of CSS.
